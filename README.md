@@ -1,8 +1,8 @@
-ATM Simulator
+# ATM Simulator
 
 A simple C++ ATM Simulator project.
 
-Features
+## Features
 
 * Check balance
 * Withdraw cash
@@ -10,6 +10,6 @@ Features
 * Basic ATM operations
 * Menu-based interaction
 
-Technologies Used
+## Technologies Used
 
 * C++
