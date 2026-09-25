@@ -19,6 +19,7 @@ banking operations.
     <td align="center"><b>Exit</b><br><img src="screenshots/exit.png" width="400"></td>
   </tr>
 </table>
+
 ## Features
 
 * Check balance
