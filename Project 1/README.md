@@ -7,16 +7,16 @@ banking operations.
 
 <table>
    <tr>
-    <td align="center"><b>PIN Verification</b><br><img src="Project 1/screenshots/pin-verification.png" width="400"></td>
-    <td align="center"><b>Main Menu</b><br><img src="Project 1/screenshots/main-menu.png" width="400"></td>
+    <td align="center"><b>PIN Verification</b><br><img src="/screenshots/pin-verification.png" width="400"></td>
+    <td align="center"><b>Main Menu</b><br><img src="screenshots/main-menu.png" width="400"></td>
   </tr>
    <tr>
-    <td align="center"><b>Balance Check</b><br><img src="Project 1/screenshots/balance-check.png" width="400"></td>
-    <td align="center"><b>Cash Deposit</b><br><img src="Project 1/screenshots/cash-deposit.png" width="400"></td>
+    <td align="center"><b>Balance Check</b><br><img src="screenshots/balance-check.png" width="400"></td>
+    <td align="center"><b>Cash Deposit</b><br><img src="screenshots/cash-deposit.png" width="400"></td>
   </tr>
    <tr>
-    <td align="center"><b>Cash Withdrawal</b><br><img src="Project 1/screenshots/cash-withdrawal.png" width="400"></td>
-    <td align="center"><b>Exit</b><br><img src="Project 1/screenshots/exit.png" width="400"></td>
+    <td align="center"><b>Cash Withdrawal</b><br><img src="screenshots/cash-withdrawal.png" width="400"></td>
+    <td align="center"><b>Exit</b><br><img src="screenshots/exit.png" width="400"></td>
   </tr>
 </table>
 
