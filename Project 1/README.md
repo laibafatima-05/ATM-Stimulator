@@ -7,7 +7,7 @@ banking operations.
 
 <table>
    <tr>
-    <td align="center"><b>PIN Verification</b><br><img src="/screenshots/pin-verification.png" width="400"></td>
+    <td align="center"><b>PIN Verification</b><br><img src="screenshots/pin-verification.png" width="400"></td>
     <td align="center"><b>Main Menu</b><br><img src="screenshots/main-menu.png" width="400"></td>
   </tr>
    <tr>
